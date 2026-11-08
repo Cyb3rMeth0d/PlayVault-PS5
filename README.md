@@ -25,17 +25,8 @@
 
 ### 🎥 Demostración en vídeo
 
-<details>
-  <summary>▶️ Ver demostración en video</summary>
+[![Ver video](https://img.youtube.com/vi/ZIhPF9ngEuQ/hqdefault.jpg)](https://www.youtube.com/watch?v=ZIhPF9ngEuQ)
 
-  <br>
-
-  <p align="center">
-    <a href="https://www.youtube.com/watch?v=ZIhPF9ngEuQ">
-      <img src="https://img.youtube.com/vi/ZIhPF9ngEuQ/hqdefault.jpg" alt="Demostración" width="600" />
-    </a>
-  </p>
-</details>
 
 
 ---
