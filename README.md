@@ -9,7 +9,7 @@
 
 [![PS5 Homebrew](https://img.shields.io/badge/Platform-PS5%20Homebrew-0070D1?style=for-the-badge&logo=playstation&logoColor=white)](#)
 [![Systems Supported](https://img.shields.io/badge/Supported-PS1%20%E2%80%A2%20PS2%20%E2%80%A2%20PSP-00C853?style=for-the-badge)](#)
-[![Build Status](https://img.shields.io/badge/Build-Test%20v1.0.0-FF9100?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+[![Build Status](https://img.shields.io/badge/Build-Release%20v1.0.0-FF9100?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 [![Community Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 <br/>
