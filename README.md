@@ -25,7 +25,18 @@
 
 ### 🎥 Demostración en vídeo
 
-https://github.com/user-attachments/assets/TU-ID-DE-VIDEO.mp4
+<details>
+  <summary>▶️ Ver demostración en video</summary>
+
+  <br>
+
+  <p align="center">
+    <a href="https://www.youtube.com/watch?v=ZIhPF9ngEuQ">
+      <img src="https://img.youtube.com/vi/ZIhPF9ngEuQ/hqdefault.jpg" alt="Demostración" width="600" />
+    </a>
+  </p>
+</details>
+
 
 ---
 
